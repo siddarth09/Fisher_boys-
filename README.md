@@ -77,7 +77,7 @@ mjcf/
 ├── scene.xml         # Load this — includes robot + world, sets integrator/timestep
 ├── aic_robot.xml     # UR5e + gripper with actuators, sensors, F/T sensor, cameras
 ├── aic_world.xml     # Enclosure, floor, task board, cable with elasticity plugin
-└── 67 .obj + .stl + .png files           # OBJ/STL meshes and PNG textures
+└── 67 files .obj + .stl + .png files     # OBJ/STL meshes and PNG textures
 ```
 
 ## Actuators
