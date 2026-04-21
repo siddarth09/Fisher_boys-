@@ -17,11 +17,11 @@ mv /home/user/Fisher_boys/mjcf /home/user/ws_aic/src/aic/aic_utils/aic_mujoco/
 Ensure that final **aic_mujoco/** folder looks like </br>
 ├── launch      
 ├── mjcf     # ensure it has total 70 files
-├── scripts     
-└── CMakeLists.txt 
-├── mujoco.repos      
-├── package.xml   
-└── README.md 
+├── scripts    </br> 
+└── CMakeLists.txt </br>
+├── mujoco.repos     </br> 
+├── package.xml   </br>
+└── README.md </br>
 
 
 ### 2. Follow steps from Part 2 in MuJoCo with ROS 2 Control https://github.com/intrinsic-dev/aic/blob/main/aic_utils/aic_mujoco/README.md
